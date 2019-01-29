@@ -1,14 +1,13 @@
 {
-  "main.css": "/portfolio/static/css/main.60f78401.chunk.css",
-  "main.js": "/portfolio/static/js/main.c949d1c7.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.c949d1c7.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/portfolio/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/portfolio/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
-  "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg",
-  "static/css/main.60f78401.chunk.css.map": "/portfolio/static/css/main.60f78401.chunk.css.map",
-  "index.html": "/portfolio/index.html",
-  "precache-manifest.13eaf28feaaa3ee5caf5cb3ff3a265c8.js": "/portfolio/precache-manifest.13eaf28feaaa3ee5caf5cb3ff3a265c8.js",
-  "service-worker.js": "/portfolio/service-worker.js"
+  "main.css": "gwesley.me/static/css/main.0a13b4ce.chunk.css",
+  "main.js": "gwesley.me/static/js/main.43b93259.chunk.js",
+  "main.js.map": "gwesley.me/static/js/main.43b93259.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "gwesley.me/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "gwesley.me/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "gwesley.me/static/js/runtime~main.b450dba6.js",
+  "runtime~main.js.map": "gwesley.me/static/js/runtime~main.b450dba6.js.map",
+  "static/css/main.0a13b4ce.chunk.css.map": "gwesley.me/static/css/main.0a13b4ce.chunk.css.map",
+  "index.html": "gwesley.me/index.html",
+  "precache-manifest.e4a7ba0d286e44f2107b1a5cb87123ac.js": "gwesley.me/precache-manifest.e4a7ba0d286e44f2107b1a5cb87123ac.js",
+  "service-worker.js": "gwesley.me/service-worker.js"
 }
