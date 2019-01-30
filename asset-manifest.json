@@ -1,13 +1,13 @@
 {
-  "main.css": "gwesley.me/static/css/main.0a13b4ce.chunk.css",
-  "main.js": "gwesley.me/static/js/main.43b93259.chunk.js",
-  "main.js.map": "gwesley.me/static/js/main.43b93259.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "gwesley.me/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "gwesley.me/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "gwesley.me/static/js/runtime~main.b450dba6.js",
-  "runtime~main.js.map": "gwesley.me/static/js/runtime~main.b450dba6.js.map",
-  "static/css/main.0a13b4ce.chunk.css.map": "gwesley.me/static/css/main.0a13b4ce.chunk.css.map",
-  "index.html": "gwesley.me/index.html",
-  "precache-manifest.e4a7ba0d286e44f2107b1a5cb87123ac.js": "gwesley.me/precache-manifest.e4a7ba0d286e44f2107b1a5cb87123ac.js",
-  "service-worker.js": "gwesley.me/service-worker.js"
+  "main.css": "/static/css/main.0a13b4ce.chunk.css",
+  "main.js": "/static/js/main.49230264.chunk.js",
+  "main.js.map": "/static/js/main.49230264.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.0a13b4ce.chunk.css.map": "/static/css/main.0a13b4ce.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.a905a18c3e8ae34dd522c3b89f790fbc.js": "/precache-manifest.a905a18c3e8ae34dd522c3b89f790fbc.js",
+  "service-worker.js": "/service-worker.js"
 }
