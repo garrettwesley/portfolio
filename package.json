@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "gwesley.me",
+  "homepage": "https://gwesley.me",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
