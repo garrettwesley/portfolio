@@ -16,7 +16,7 @@ body {
     justify-content: start;
     font-size: calc(10px + 2vmin);
     color: #000;
-    max-width: 700px;
+    width: 700px;
 }
 
 .App-link {
@@ -25,4 +25,11 @@ body {
 .name {
     font-weight: 700;
     font-size: 32px;
+}
+
+.link-container {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    margin-bottom: 15px;
 }

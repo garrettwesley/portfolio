@@ -9,30 +9,36 @@ class App extends Component {
           <p className="name">
               Garrett Wesley
           </p>
-          <a
-            className="App-link"
-            href="https://github.com/garrettwesley"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Github
-          </a>
-          <a
-            className="App-link"
-            href="https://linkedin.com/in/garrett-wesley"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Linkedin
-          </a>
-          <a
-            className="App-link"
-            href="Garrett_Wesley_Resume_19.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Resume
-          </a>
+          <p>
+              Studying Computer Science at UC Berkeley
+          </p>
+          <div className="link-container">
+              <a
+                className="App-link"
+                href="https://github.com/garrettwesley"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Github
+              </a>•
+              <a
+                className="App-link"
+                href="https://linkedin.com/in/garrett-wesley"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Linkedin
+              </a>•
+              <a
+                className="App-link"
+                href="Garrett_Wesley_Resume_19.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Resume
+              </a>
+          </div>
+          <p><a href="mailto: garrettwesley@berkeley.edu">Contact Me</a></p>
         </header>
       </div>
     );
