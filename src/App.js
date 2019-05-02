@@ -31,7 +31,7 @@ class App extends Component {
               </a>•
               <a
                 className="App-link"
-                href="Garrett_Wesley_Resume_19.pdf"
+                href="https://garrettwesley.github.io/portfolio/Garrett_Wesley_Resume_19.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
