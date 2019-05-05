@@ -56,12 +56,12 @@ class App extends Component {
                 <div className="link-container">
                     <div className="link-item">
                         <a
-                            href="https://github.com/garrettwesley/speed-typr"
+                            href="https://chrome.google.com/webstore/detail/speed-typing-10-fast-fing/eoefmbbcheodkhndmjkfjicobhiafano"
                             target="_blank"
                             rel="noopener noreferrer">
                             <div className="title">Speed Typer</div>
                             <div className="dot-separator"/>
-                            <div className="description">A minimalistic Google Chrome extension to improve typing speed and analyze your progress</div>
+                            <div className="description">Minimalistic extension to improve typing speed and analyze your progress</div>
                         </a>
                     </div>
                     <div className="link-item">
