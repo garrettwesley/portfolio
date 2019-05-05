@@ -86,7 +86,7 @@ class App extends Component {
                     </div>
                     <div className="link-item">
                         <a
-                            href="calbnb.herokuapp.com"
+                            href="https://calbnb.herokuapp.com"
                             target="_blank"
                             rel="noopener noreferrer">
                             <div className="title">Cal BnB</div>
