@@ -61,7 +61,47 @@ class App extends Component {
                             rel="noopener noreferrer">
                             <div className="title">Speed Typer</div>
                             <div className="dot-separator"/>
-                            <div className="description">A minimalistic chrome extension to improve typing speed and analyze your progress</div>
+                            <div className="description">A minimalistic Google Chrome extension to improve typing speed and analyze your progress</div>
+                        </a>
+                    </div>
+                    <div className="link-item">
+                        <a
+                            href="https://chrome.google.com/webstore/detail/spotlight-tab-search/gjmolmghaajjfghafknnmnhobhcpamjm"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <div className="title">Spotlight</div>
+                            <div className="dot-separator"/>
+                            <div className="description">Elegant tab prediction, management, and movement</div>
+                        </a>
+                    </div>
+                    <div className="link-item">
+                        <a
+                            href="https://chrome.google.com/webstore/detail/screen-snake/oakppllklhfmlmmkegggibehngodceko"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <div className="title">Screen Snake</div>
+                            <div className="dot-separator"/>
+                            <div className="description">Fun snake game overlay for Google Chrome</div>
+                        </a>
+                    </div>
+                    <div className="link-item">
+                        <a
+                            href="calbnb.herokuapp.com"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <div className="title">Cal BnB</div>
+                            <div className="dot-separator"/>
+                            <div className="description">AirBnb clone for Cal students</div>
+                        </a>
+                    </div>
+                    <div className="link-item">
+                        <a
+                            href="https://github.com/garrettwesley/SmartScreenshot"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <div className="title">Smart Screenshot</div>
+                            <div className="dot-separator"/>
+                            <div className="description">Mac app to manage screenshot naming</div>
                         </a>
                     </div>
                     <div className="link-item">
