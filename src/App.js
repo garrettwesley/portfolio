@@ -51,7 +51,7 @@ class App extends Component {
                 <h1 className="">
                     I Build Things
                 </h1>
-                <p className="">I have created a few JavaScript and React libraries <span className="">(180k+ npm downloads)</span>.</p>
+                <p className="">I have created a few apps and libraries <span className="highlight">(30k+ downloads)</span>.</p>
                 <div className="link-container">
                     <div className="link-item">
                         <a
