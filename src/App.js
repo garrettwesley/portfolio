@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom'
 import './App.scss';
 
 class App extends Component {
@@ -6,8 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="Header">
-            <div className="Menu-Item">
-                <a href="/">About</a>
+            <div className="menu-item">
+                <Link to="/about">About</Link>
             </div>
         </div>
         <div className="Name-Container">
@@ -75,6 +76,9 @@ class App extends Component {
                     </div>
                 </div>
                 <div className="separator">
+                </div>
+                <div className="footer">
+                    © Copyright 2019 Garrett Wesley
                 </div>
             </div>
         </div>
