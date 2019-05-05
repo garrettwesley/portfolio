@@ -1,0 +1,119 @@
+$primary-color: #FF2353;
+$secondary-color: #c1e4ff;
+
+body {
+    display: flex;
+    justify-content: center;
+}
+.App {
+    max-width: 960px;
+}
+.separator {
+    border-bottom: 1px solid #eee;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.dot-separator::after {
+    content: "\2219";
+    padding: 0 .5rem;
+}
+
+.Header {
+    height: 4rem;
+    font-size: .875rem;
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+    justify-content: flex-end;
+
+    a {
+        text-decoration: none;
+        &:hover{
+            box-shadow: 0 1.5px 0 0 $primary-color;
+        }
+    }
+}
+
+.name {
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.titles {
+    align-items: center;
+    display: flex;
+    font-size: 1.065rem;
+    justify-content: center;
+    line-height: normal;
+    padding: .5rem 0;
+
+
+    .title-item {
+        background-color: $secondary-color;
+        border-radius: 1px;
+        color: #091b33;
+        padding: .065rem .375rem .125rem;
+
+        .highlight {
+            background-color: $secondary-color;
+            border-radius: 1px;
+            color: #091b33;
+            padding: .065rem .375rem .125rem;
+        }
+    }
+}
+
+.social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .125rem 0;
+
+    a {
+        margin: .25rem .5rem;
+        text-decoration: none;
+        font-size: 2rem;
+        color: #333;
+        transform: perspective(1px) translateZ(0);
+        box-shadow: 0 0 1px transparent;
+
+
+        .svg-inline--fa {
+            height:1em;
+        }
+    }
+}
+
+.link-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 15px;
+
+    .link-item {
+        align-items: baseline;
+        display: flex;
+        flex-wrap: wrap;
+        margin: .75rem 0;
+        a {
+            &:hover {
+                color: $primary-color;
+                .description { color: $primary-color; }
+            }
+            display: flex;
+            text-decoration: none;
+            .title {
+                font-size: 1rem;
+                font-weight: 400;
+            }
+            .description {
+                font-size: .95rem;
+                color: #8e8e8e;
+            }
+        }
+    }
+}
