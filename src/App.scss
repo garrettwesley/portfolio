@@ -42,7 +42,6 @@ body {
         a {
             text-decoration: none;
             &:hover{
-                // box-shadow: 0 1.5px 0 0 $primary-color;
                 text-decoration: underline;
                 color: $primary-color;
             }
@@ -116,12 +115,14 @@ body {
             a {
                 &:hover {
                     color: $primary-color;
+                    .title { color: $primary-color; }
                     .description { color: $primary-color; }
                 }
                 display: flex;
                 text-decoration: none;
                 .title {
                     font-size: 1rem;
+                    color: black;
                     font-weight: 400;
                 }
                 .description {
@@ -147,4 +148,12 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.body-typing {
+    min-height: calc(100vh - 7rem);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
 }

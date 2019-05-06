@@ -55,14 +55,11 @@ class App extends Component {
                 <p className="">I have created a few apps and libraries <span className="highlight">(30k+ downloads)</span>.</p>
                 <div className="link-container">
                     <div className="link-item">
-                        <a
-                            href="https://chrome.google.com/webstore/detail/speed-typing-10-fast-fing/eoefmbbcheodkhndmjkfjicobhiafano"
-                            target="_blank"
-                            rel="noopener noreferrer">
+                        <Link to="/speed-typer">
                             <div className="title">Speed Typer</div>
                             <div className="dot-separator"/>
                             <div className="description">Minimalistic extension to improve typing speed and analyze your progress</div>
-                        </a>
+                        </Link>
                     </div>
                     <div className="link-item">
                         <a
