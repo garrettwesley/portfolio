@@ -14,8 +14,13 @@ class About extends Component {
                 <div className="body">
                     <h1 className="body-header">About me</h1>
                     <p>Computer Science at Berkeley (Class of 2021) </p>
-                    <p>Software Engineer intern at BAE Systems starting in May 2019.</p>
-                    <p>I’ve done SWE internships at LiftIgniter (2018) and LuxScience (2018).</p>
+                    <p>Incoming Software Engineer Intern at Google (Summer 2020).</p>
+                    <p>I’ve done SWE internships at:</p>
+                    <ul className="internship-list">
+                        <li>BAE Systems (Summer 2019)</li>
+                        <li>LiftIgniter (Summer 2018)</li>
+                        <li>LuxScience (Spring 2018)</li>
+                    </ul>
                 </div>
             </div>
       )

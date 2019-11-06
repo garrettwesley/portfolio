@@ -52,7 +52,7 @@ class App extends Component {
                 <h1 className="">
                     I Build Things
                 </h1>
-                <p className="">I have created a few apps and libraries <span className="highlight">(30k+ downloads)</span>.</p>
+                <p className="">I have created a few apps and libraries <span className="highlight">(100k+ downloads)</span>.</p>
                 <div className="link-container">
                     <div className="link-item">
                         <Link to="/speed-typer">
@@ -60,7 +60,7 @@ class App extends Component {
                             <div className="dot-separator"/>
                             <div className="description">Minimalistic extension to improve typing speed and analyze your progress</div>
                         </Link>
-                    </div>
+                </div>
                     <div className="link-item">
                         <a
                             href="https://chrome.google.com/webstore/detail/spotlight-tab-search/gjmolmghaajjfghafknnmnhobhcpamjm"

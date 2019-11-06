@@ -16,8 +16,10 @@ class Typing extends Component {
                 </div>
                 <div className="body-typing">
                     <h1 className="body-header">Speed Typer</h1>
-                    <a href="https://www.producthunt.com/posts/touch-typer">Product Hunt</a>
-                    <a href="https://chrome.google.com/webstore/detail/speed-typing-10-fast-fing/eoefmbbcheodkhndmjkfjicobhiafano">Download</a>
+                    <div className="typing-links">
+                        <a href="https://www.producthunt.com/posts/touch-typer" target="_blank" rel="noopener noreferrer">Product Hunt</a>
+                        <a href="https://chrome.google.com/webstore/detail/speed-typing-10-fast-fing/eoefmbbcheodkhndmjkfjicobhiafano" target="_blank" rel="noopener noreferrer">Install</a>
+                    </div>
                 </div>
             </div>
       )

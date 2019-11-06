@@ -122,7 +122,7 @@ body {
                 text-decoration: none;
                 .title {
                     font-size: 1rem;
-                    color: black;
+                    color: blue;
                     font-weight: 400;
                 }
                 .description {
@@ -153,7 +153,21 @@ body {
 .body-typing {
     min-height: calc(100vh - 7rem);
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: baseline;
+}
+.internship-list {
+    margin: 0px;
+    li {
+        padding-top: 5px;
+    }
+}
+.typing-links {
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    a {
+        padding-top: 10px;
+    }
 }
