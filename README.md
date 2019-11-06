@@ -1,1 +1,4 @@
-Hello There
+- npm run add-domain
+- npm run predeploy
+- npm run deploy
+- On github/settings/pages change domain to www.gwesley.me
